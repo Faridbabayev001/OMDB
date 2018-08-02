@@ -22,7 +22,7 @@ Download and unpack the contents of the application/libraries and application/co
 Config file
 ------------------
 
-####Move omdb.php to application/config folder
+Move omdb.php to application/config folder
 
     <?php
     
@@ -31,7 +31,8 @@ Config file
     
  Controller example
 ------------------
-####Initialize the class
+Initialize the class
+
     <?php
     	class Omdb_test extends CI_Controller {
     
